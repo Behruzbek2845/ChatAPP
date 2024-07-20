@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Save to galerey"
+        android:id="@+id/btn_save_galerey"
+        android:icon="@drawable/ic_down"
+        />
+    <item
+        android:title="Share"
+        android:icon="@drawable/ic_share"
+        android:id="@+id/btn_share_image"
+        />
+
+</menu>
